@@ -41,6 +41,8 @@ management:
     web:
       exposure:
         include: "*"
-
+name: '{cipher}14c3e062dc4a7d81dc94f24cc02253c50772b8a3d285d4032ab153eea6f0387b'
+age: 29
+password: 333333333
         
 
